@@ -8,7 +8,6 @@ This script is provided as-is. Your performance may vary.
 - [VORP-CORE](https://github.com/VORPCORE/VORP-Core)
 - [VORP-Inventory](https://github.com/VORPCORE/VORP-Inventory)
 - [VORP-Character](https://github.com/VORPCORE/VORP-Character)
-- [syn_inputs](https://discord.com/channels/777290543406776341/777295888543645716)
 
 ## Installation
 - Stop your CFX Server
